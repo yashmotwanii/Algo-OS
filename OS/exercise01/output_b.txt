@@ -1,5 +1,0 @@
-Child 12933 is created by parent 12932 (sleeps for 9 seconds)
-Child 12934 is created by parent 12933 (sleeps for 8 seconds)
-Parent 12933: Child 12934 is exited
-Parent 12932: Child 12933 is exited
-

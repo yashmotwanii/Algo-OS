@@ -1,1 +1,0 @@
-In the first case , when the parent exits after the child, both the processes exits after sleeping for a certain time. In the second case, when the parent terminates before the grand child( because of its less sleeping time than the child), only the parent process exits after its sleeping time completes.

@@ -1,3 +1,0 @@
-Child 12817 is created by parent 12816 (sleeps for 2 seconds)
-Child 12816 is created by parent 12815 (sleeps for 10 seconds)
-Parent 12816: Child 12817 is exited
